@@ -21,11 +21,12 @@ To install the BM25 Search Extension, follow these steps:
 
 ## Usage
 
-1. Click on the BM25 Search Extension icon in your browser.
-2. Enter your search query in the input field.
-3. Adjust the \(k_1\) and \(b\) parameters using the sliders for custom search tuning.
-4. Click the "Search" button to perform the BM25 search.
-5. View the search results in the popup.
+1. Navigate to a page with many paragraphs of text, such as a long wikipedia page (ex: https://en.wikipedia.org/wiki/Data_mining)
+2. Click on the BM25 Search Extension icon in your browser.
+3. Enter your search query in the input field.
+4. Adjust the \(k_1\) and \(b\) parameters using the sliders for custom search tuning.
+5. Click the "Search" button to perform the BM25 search.
+6. View the search results in the popup.
 
 ## BM25 Parameters
 
