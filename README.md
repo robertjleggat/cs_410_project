@@ -12,6 +12,8 @@ The BM25 Search Extension is a browser extension that enhances your web browsing
 
 ## Installation
 
+Reference tutorial.mp4
+
 To install the BM25 Search Extension, follow these steps:
 
 1. Clone this repo onto your local device
@@ -20,6 +22,8 @@ To install the BM25 Search Extension, follow these steps:
 4. Click on "Load unpacked" and select the repo folder.
 
 ## Usage
+
+Reference tutorial.mp4
 
 1. Navigate to a page with many paragraphs of text, such as a long wikipedia page (ex: https://en.wikipedia.org/wiki/Data_mining)
 2. Click on the BM25 Search Extension icon in your browser.
